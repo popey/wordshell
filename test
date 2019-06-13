@@ -1,0 +1,4 @@
+#!/bin/bash
+rm -rf ~/.wordshell/game/*
+rm -rf ~/.wordshell/cache/*
+./ws

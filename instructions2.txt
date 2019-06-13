@@ -1,0 +1,19 @@
+_______________________________________________________________________________
+
+Welcome to WordSHell.
+
+   WordSHell is a simple word puzzle game. In each round the computer will
+   present a jumbled word. The player must unscramble the letters to discover
+   the original word. 
+
+   In addition the player must identify some smaller words made from the
+   jumbled letters of the main word.
+
+   Once the game begins, guess both the main word and any smaller words
+   by typing them in, one at a time, followed by the [ENTER] key. 
+
+   Points are scored for the length of words guessed, and bonus points can
+   be gained by identifying the additional words quickly.
+
+   Think fast, don't get stuck in WordSHell!
+_______________________________________________________________________________
